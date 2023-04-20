@@ -1,17 +1,1 @@
-let yourArray=[
-	[
-		{
-			name:"vani"
-		}
-	],
-	[
-		{
-			rollNo:85;
-		}
-	],
-	[
-		{
-			student:true;
-		}
-	]
-]
+var yourArray = ["apple", 42, true, "banana", false];
